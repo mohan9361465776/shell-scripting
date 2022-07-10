@@ -6,7 +6,7 @@ echo "script we are executing is $0"
 # $0 to $n , $* , $@ , $$
 # Through command line you can pass up to 9 variables
 echo "The value of x is $1"
-echo "Name of trainer is $2"
+echo "Name of trainer is $2 and this is $3 batch"
 # sh script.sh 10 20 30
 #              $1 $2 $3
 a=100
