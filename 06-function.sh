@@ -20,3 +20,7 @@ sleep 5
 fa
 sleep 5
 fa
+#Creating another function stat
+stat() {
+    echo "Load Average"
+}
