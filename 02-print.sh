@@ -7,4 +7,4 @@ echo -e "\e[34m i am printing Blue COLOR \e[0m"
 echo -e "\e[36m i am printing Cyan COLOR \e[0m"
 #To have a background Color
 #echo -e "\e[background; COL-CODEm MESSAGE \e[0m"
-echo -e "\e[45;33m i am printing Colors \e[0m"
+echo -e "\e[41;33m i am printing Colors \e[0m"
