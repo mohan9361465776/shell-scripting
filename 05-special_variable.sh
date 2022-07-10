@@ -9,3 +9,6 @@ echo "The value of x is $1"
 echo "Name of trainer is $2"
 # sh script.sh 10 20 30
 #              $1 $2 $3
+a=100
+b=200
+echo $*  # This will print all the variables that we are using in the script
