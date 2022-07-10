@@ -11,4 +11,5 @@ echo "Name of trainer is $2"
 #              $1 $2 $3
 a=100
 b=200
+echo "Declared values are $a $b"
 echo $*  # This will print all the variables that we are using in the script
