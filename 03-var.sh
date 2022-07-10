@@ -9,3 +9,5 @@ echo $a # $a will print the value os a
 echo $b
 echo $c
 echo "The value of c is $b"
+echo "The value of d is $d"
+#rm -rf /data/${DATA_DIR} ---> Here we are not update DATA_DIR value so this script will delete entire data directory
