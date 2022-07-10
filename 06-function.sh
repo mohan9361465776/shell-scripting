@@ -9,8 +9,8 @@ echo "Number of opened sessions are $(who | wc -l)";
 echo "Function f completed ....BYE"
 }
 echo "showing you how to call a function"
-f
+fa
 sleep 5
-f
+fa
 sleep 5
-f
+fa
