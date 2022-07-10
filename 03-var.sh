@@ -8,3 +8,4 @@ b=abc
 echo $a # $a will print the value os a
 echo $b
 echo $c
+echo "The value of c is $b"
