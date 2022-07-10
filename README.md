@@ -12,3 +12,4 @@ Open github-->settings-->developer settings-->password key generate
 4)Run the command in terminal
 
 git remote set-url origin https://key@github.com/username
+This will upload
