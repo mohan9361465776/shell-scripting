@@ -1,3 +1,3 @@
 #!/bin/bash
-DATE=2022-07-10
+DATE_COMMAND=${date +%F}
 echo "Good Morning Today is $DATE"
