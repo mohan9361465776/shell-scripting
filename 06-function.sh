@@ -1,6 +1,9 @@
 #!/bin/bash
 #Functions help you in avoiding the same set of code multiple times.
 #Declare it is a function and call it whenver or wherever you want.
+#we are declaring a function fa
+LOADAVG=$(uptime | awk -F : '{print $NF}' | awk -F , '{print $1}')
+)
 sam() {
     echo "I am a command from SAM"
 
