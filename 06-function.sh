@@ -4,7 +4,7 @@
 fa()
 {
 echo "I am the first line in the function";
-echo "Today date is $(date+%\F)";
+echo "Today date is $(date +%\F)";
 echo "Number of opened sessions are $(who | wc -l)";
 echo "Function f completed ....BYE"
 }
