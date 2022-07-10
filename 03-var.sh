@@ -3,6 +3,7 @@
 a=10
 #10 is a string here
 b=abc
+d=100
 #abc is also a string
 #when to use double ??? when your input us having any special characters,then u need to close in quotes
 echo $a # $a will print the value os a
