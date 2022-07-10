@@ -4,3 +4,5 @@ echo "Hello World"
 ##printing multiple lines
 echo "Hi"
 echo "Hello"
+## \n : New Line : ## \t : Tab Space
+echo "Hi\nHello"
