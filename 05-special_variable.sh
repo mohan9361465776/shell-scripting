@@ -13,3 +13,4 @@ a=100
 b=200
 echo "Declared values are $a $b"
 echo $*  # This will print all the variables that we are using in the script
+echo "Number of variables are $#"
